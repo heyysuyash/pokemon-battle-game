@@ -1,0 +1,68 @@
+
+Classification of pokemon
+
+1 - Electric Type pokemon(Pichu/Pikachu/Raichu)
+
+2 - Water Type pokemon(Squirtle/Wartortle/Blastoise/Psyduck/Goalduck)
+
+3 - Fire Type pokemon(Charmander/Charmeleon/Charizard)
+
+4 - Psychic Type pokemon(Psyduck/Goalduck/Kadabra/Mr Mime/Mew/Mewtwo)
+
+5 - Dragon Type Pokemon(Dragonite)
+
+6 - Fairy Type Pokemon(JigglyPuff)
+
+7 - Rock Type(Onix/Geodude)
+
+Damage chart:
+
+*Electric Type pokemon are more effective against Fire and Water Type pokemon.
+*Water Type pokemon are more effective against Fire Type pokemon.
+*Fire Type and Dragon Type pokemon have no special effect against any of the types mentioned above.
+*Fairy Type pokemon are twice as effective against Dragon Type pokemon.
+** Psychic pokemon(Mew and Mewtwo only) are so strong, they don't have any weakness.
+
+** Be Careful on how you spend coins, because once gone they are hard to come by.
+** Careful use of coins can make you invincible.
+
+*** You will get coins in every single match you win. However, the amount depends upon the last attack dealt. Most Powerful finish will fetch you most coins.
+
+STORY MODE:
+
+Trainers:
+
+1 - Misty will be your first real opponent, she uses Water Type pokemon, so its better to use electric type against her. Use fire type and you'll lose.
+
+2 - Blain uses fire type pokemon
+
+3 - Lt. Surge uses electric type pokemon
+
+4 - Brock uses rock type pokemon
+
+5 - Sabrina uses Psychic pokemon
+
+Sabrina's Pokemon are exclusive to her, even after beating the game you cannot acquire her pokemon. However, you will be able to purchase much higher level pokemon.
+
+Pokemon League:
+
+Pokemon League will be an unlimited gameplay, each player will fight 5 matches with you.
+You will get 200 Poké per player.
+
+FREE ROAM:
+
+In free roam mode, you will encounter 2 type of enemies, team rocket or random trainers.
+You will get 50 Poké per match.
+
+Random Trainers:
+
+You will encounter random players, their pokemon level will be based on your pokemon level.
+
+Team Rocket:
+
+Their Pokemons are exclusive to them, they are not made available for purchase.
+
+Extra InGame Info:
+
+At certain points you will be required to purchase potions and resistance to progress further, so use money wisely.
+New Pokemons and items will be unlocked as you progress further. You will also receive items from trainers.

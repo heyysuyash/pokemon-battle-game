@@ -1,0 +1,4 @@
+passlib==1.7.1
+colorama==0.4.1
+termcolor==1.1.0
+json-store-client==1.0.1
